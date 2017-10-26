@@ -1,0 +1,10 @@
+site_name: KnzkApp
+site_url: https://app-help.knzkdev.net
+site_description: KnzkAppのヘルプWikiです。
+site_author: '@KnzkDev'
+repo_url: https://github.com/KnzkDev/KnzkApp-docs
+repo_name: KnzkApp-docs
+pages:
+  - KnzkAppについて: index.md
+  - 使い方: using.md
+  - FAQ: faq.md
