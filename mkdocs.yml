@@ -8,5 +8,5 @@ pages:
   - KnzkAppについて: index.md
   - 使い方: using.md
   - FAQ: faq.md
-  - Tip: tip/index.md
+  - Tip:
     - 通知をコンパクトに: tip/notification_compact.md
