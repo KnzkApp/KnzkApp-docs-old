@@ -1,11 +1,20 @@
 # KnzkApp
 
-**KnzkAppは、神崎丼の独自機能に対応した神崎丼専用Mastodonクライアントです。**
 
-神崎丼: [https://knzk.me/](https://knzk.me/)  
-アプリ紹介ページ: [https://knzkdev.net/knzkapp/](https://knzkdev.net/knzkapp/)
+Knzk.me: [https://knzk.me](https://knzk.me)  
+ランディングページ: [https://knzkapp.yuzu.tk](https://knzkapp.yuzu.tk)
 
 [Playストア](https://play.google.com/store/apps/details?id=net.knzkdev.app) | [AppStore](https://itunes.apple.com/jp/app/knzkapp/id1296825434?l=ja)
+
+## 特徴
+Mastodonの基本機能はもちろん、いくつかのインスタンスの追加機能に対応したアプリです。
+
+### 対応機能
+- [Glitch-soc](https://github.com/glitch-soc/mastodon/) feature (Local-only, Doodle, DM TimeLine etc...)
+- BBCode (from [now.kibousoft.co.jp](https://now.kibousoft.co.jp/))
+- Enquete (from [friends.nico](https://friends.nico/))
+- Markdown (from [kirishima.cloud](https://kirishima.cloud/))
+- 読み仮名 (from [theboss.tech](https://theboss.tech/))
 
 ### 独自仕様に完全対応
 他のアプリではBBCode(トゥート装飾)が見れなくて面白くない...！  
@@ -18,3 +27,9 @@ KnzkAppはオープンソースソフトウェアです。 [KnzkDev/KnzkApp](htt
 
 #### お問い合わせ先
 [https://knzk.me/@y](https://knzk.me/@y)
+
+## Special Thanks ✨
+[あんのたん @annotunzdy](https://knzk.me/@annotunzdy)   
+
+[神崎丼ロゴ: ネイティオ @twotwo](https://knzk.me/@twotwo)  
+[神崎丼ロゴ: NCLS @imncls](https://knzk.me/@imncls)

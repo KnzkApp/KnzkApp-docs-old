@@ -2,7 +2,7 @@
 こんな感じにできます。  
 ![image](https://user-images.githubusercontent.com/14953122/37567167-6a7c1d4a-2b06-11e8-81f8-849de57c7ded.png)
 
-**KnzkApp v1.0.11以上対象**
+**KnzkApp v1.1.0以上対象**
 
 1. 設定を開きます。
 2. 「トゥートの折りたたみ」を開きます。
